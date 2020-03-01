@@ -26,8 +26,8 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@InFoTelGroup](https://telegram.dog/InFoTelGroup)
-- Updates [@TGBotsZ](https://telegram.dog/TGBotsZ)
+- For FeedBack and Suggestions, please feel free to say in [@SUB_4_YOU](https://telegram.dog/SUB_4_YOU)
+- Updates [@worldsmovi](https://telegram.dog/worldsmovi)
 
 #### LICENSE
 - GPLv3
